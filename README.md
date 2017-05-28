@@ -12,7 +12,7 @@ Use the command `resume init` to start a resume.
 ```
 git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
 cd resume
-resume export resume.html --theme elegant
+resume export resume.html --theme elegant-mobile
 resume serve
 ```
 
