@@ -74,8 +74,9 @@
       "endDate": "present",
       "gpa": "",
       "courses": [
-        "The Complete JavaScript Course: By Jonas Schmedtmann"
-
+        "The Complete JavaScript Course (ES6): By Jonas Schmedtmann"
+        "The Complete React Native and Redux Course: By Stephen Grider"
+        "Essentials in JavaScript ES6: David Katz"
       ]
     }
   ],
