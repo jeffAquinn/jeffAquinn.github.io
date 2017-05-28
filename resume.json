@@ -70,10 +70,11 @@
       "institution": "Udemy",
       "area": "Udemy.com",
       "studyType": "Web and App Development",
-      "startDate": "2000-08-11",
-      "endDate": "2004-05-01",
+      "startDate": "2016-12-01",
+      "endDate": "present",
       "gpa": "",
       "courses": [
+        "The Complete JavaScript Course: By Jonas Schmedtmann"
 
       ]
     }
