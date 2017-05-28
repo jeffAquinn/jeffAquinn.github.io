@@ -69,14 +69,41 @@
     {
       "institution": "Udemy",
       "area": "Udemy.com",
-      "studyType": "Web and App Development",
-      "startDate": "2016-12-01",
-      "endDate": "present",
+      "studyType": "Mobile and Web Development",
+      "startDate": "2016-12-16",
+      "endDate": "0000-00-00",
       "gpa": "",
       "courses": [
-        "The Complete JavaScript Course (ES6): By Jonas Schmedtmann"
-        "The Complete React Native and Redux Course: By Stephen Grider"
-        "Essentials in JavaScript ES6: David Katz"
+        "The Complete JavaScript ES6 Course: By Jonas Schmedtmann",
+        "Essentials in JavaScript ES6: By David Katz",
+        "The Complete React Native and Redux Course: by Stephen Grider"
+      ]
+    },
+    {
+      "institution": "Codecademy",
+      "area": "Codecademy.com",
+      "studyType": "Mobile and Web Development",
+      "startDate": "2017-01-01",
+      "endDate": "0000-00-00",
+      "gpa": "",
+      "courses": [
+        "HTML & CSS",
+        "jQuery",
+        "Learn the Command Line",
+        "Learn Git",
+        "Learn ReactJS: Part 1",
+        "Learn ReactJS: Part 2"
+      ]
+    },
+    {
+      "institution": "FullStack React Book",
+      "area": "fullstack.io",
+      "studyType": "Completed Book/Workshops",
+      "startDate": "2017-04-08",
+      "endDate": "2017-06-01",
+      "gpa": "",
+      "courses": [
+        "FullStack React: by Anothony Accomazzo, Glay Allsopp, Tyler Mcginnis, Ari Lerner, David Guttman and Nate Murray"
       ]
     }
   ],
