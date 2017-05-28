@@ -1,44 +1,43 @@
 {
   "basics": {
     "name": "Jeff Quinn",
-    "label": "Programmer",
+    "label": "Fullstack Development",
     "picture": "",
     "email": "tradeweaver@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(303) 906-5488",
+    "website": "",
+    "summary": "I have been a professional tile installer for the last thirteen years. I specialize in installing custom tile showers and floors in various resort towns and other places in the Denver Metro area. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. After throwing out my back in 2015, I needed to find a new way to apply my creativity so I came up with the idea to create a social trading app called Trade Weaver.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "CO 80227",
+      "city": "Lakewood",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "Jeff Quinn",
+        "url": "https://www.linkedin.com/in/jeffquinn8/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
+        "network": "GitHub",
+        "username": "jeffAquinn",
         "url": "https://soundcloud.com/dandymusicnl"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Custom Flooring Concepts",
+      "position": "Employee",
+      "startDate": "2004-5-01",
+      "endDate": "2011-12-01",
+      "summary": "I worked for my fathers construstion company Custom Flooring Concepts right out of high school. We worked in Summit County, Grand County, and all over the Denver Metro area installing custom tile showers and hardwood floors in large resorts, homes and condos. ",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "I worked with a crew of guys installing a Hotel loby floor in a beautiful quartz at Grand Lodge, Breckenridge",
+        "Installed tile in Master Bathrooms in multi-million dallar homes.",
+        "While working for Custom Flooring Concepts I was the lead man of a crew of two guys, while living in Breckenridge, CO"
       ]
     }
   ],
@@ -46,7 +45,7 @@
     {
       "organization": "CoderDojo",
       "position": "Teacher",
-      "website": "http://coderdojo.com/",
+      "website": "https://coderdojo.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Global movement of free coding clubs for young people.",
@@ -57,15 +56,25 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Bear Creek",
+      "area": "High School",
+      "studyType": "Diploma",
+      "startDate": "2000-08-11",
+      "endDate": "2004-05-01",
+      "gpa": "3.0",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+
+      ]
+    },
+    {
+      "institution": "Udemy",
+      "area": "Udemy.com",
+      "studyType": "Web and App Development",
+      "startDate": "2000-08-11",
+      "endDate": "2004-05-01",
+      "gpa": "",
+      "courses": [
+
       ]
     }
   ],
@@ -82,27 +91,31 @@
       "name": "Video compression for 3d media",
       "publisher": "Hooli",
       "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
       "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "Front-end Development",
+      "level": "Beginner",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "JavaScript(ES6)",
+        "React.js",
+        "React Native",
+        "jQuery"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Back-end Development",
+      "level": "Beginner",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "MongoDB",
+        "Flux",
+        "Redux",
+        "AWS Lambda"
       ]
     }
   ],
@@ -114,17 +127,30 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Outdoor Adventure",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Hiking & Backpacking",
+        "Rock Climbing",
+        "Snowboarding",
+        "Snowmobiling",
+        "Programming Languages",
+        "Reading",
+        "Learning New Things"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "John Quinn",
+      "reference": "It is my pleasure to recommend Jeff, his performance working as a tile and hardwood installer has shown me how important it is to Jeff to deliver quality performance and products to clients. "
+    },
+    {
+      "name": "Brandon Rundquist",
+      "reference": ""
+    },
+    {
+      "name": "Jesse Gwinn",
+      "reference": ""
     }
   ]
 }
