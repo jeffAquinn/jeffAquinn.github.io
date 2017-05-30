@@ -74,9 +74,9 @@
       "endDate": "0000-00-00",
       "gpa": "",
       "courses": [
-        "The Complete JavaScript ES6 Course: By Jonas Schmedtmann",
+        "The Complete JavaScript ES6: Jonas Schmedtmann",
         "Essentials in JavaScript ES6: By David Katz",
-        "The Complete React Native and Redux Course: by Stephen Grider"
+        "The Complete React Native and Redux: Stephen Grider"
       ]
     },
     {
@@ -103,7 +103,7 @@
       "endDate": "2017-06-01",
       "gpa": "",
       "courses": [
-        "FullStack React: by Anothony Accomazzo, Glay Allsopp"
+        "FullStack React: by Anothony Accomazzo"
       ]
     }
   ],
