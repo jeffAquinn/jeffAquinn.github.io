@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jeff Quinn",
-    "label": "Fullstack Development",
+    "label": "Web and App Development",
     "picture": "",
     "email": "tradeweaver@gmail.com",
     "phone": "(303) 906-5488",
@@ -103,7 +103,7 @@
       "endDate": "2017-06-01",
       "gpa": "",
       "courses": [
-        "FullStack React: by Anothony Accomazzo, Glay Allsopp, Tyler Mcginnis, Ari Lerner, David Guttman and Nate Murray"
+        "FullStack React: by Anothony Accomazzo, Glay Allsopp"
       ]
     }
   ],
