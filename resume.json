@@ -43,8 +43,7 @@
     {
       "company": "Tile N The Rockies",
       "position": "Owner",
-      "startDate": "2012-01-01",
-      "endDate": "2017-07-01",
+      "startDate": "2012-01-01",      
       "summary": "In 2012 I decided it was time for me to create my own construstion company Tile N The Rockies.",
       "highlights": [
         "",
@@ -55,27 +54,37 @@
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "https://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Jeffco Action Center",
+      "position": "Help serve the homeless",
+      "website": "http://theactioncenterco.org/",
+      "startDate": "2015-12-21",
+      "endDate": "2015-12-21",
+      "summary": "I've volunteered at the Jeffco Action Center a number of times. While there I helped sort through donated clothes and put them on racks and shelves. I've also helped them unload vehicles full of donations around the holidays.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Giving back to the community!",
+        "Helping people in times of need, everyone goes through hard times in life."
       ]
     }
   ],
   "education": [
     {
+      "institution": "FreeCodeCamp",
+      "area": "https://www.freecodecamp.com/frosty08",
+      "studyType": "Mobile and Web Development",
+      "startDate": "2017-01-01",
+      "courses": [
+        "The Complete JavaScript Course: Jonas Schmedtmann",
+        "Essentials in JavaScript ES6: By David Katz",
+        "The Complete React Native and Redux: Stephen Grider"
+      ]
+    },
+    {
       "institution": "Udemy",
       "area": "Udemy.com",
       "studyType": "Mobile and Web Development",
       "startDate": "2016-12-16",
-      "endDate": "0000-00-00",
-      "gpa": "",
       "courses": [
-        "The Complete JavaScript ES6: Jonas Schmedtmann",
+        "The Complete JavaScript Course: Jonas Schmedtmann",
         "Essentials in JavaScript ES6: By David Katz",
         "The Complete React Native and Redux: Stephen Grider"
       ]
@@ -85,8 +94,6 @@
       "area": "Codecademy.com",
       "studyType": "Mobile and Web Development",
       "startDate": "2017-01-01",
-      "endDate": "0000-00-00",
-      "gpa": "",
       "courses": [
         "HTML & CSS",
         "jQuery",
