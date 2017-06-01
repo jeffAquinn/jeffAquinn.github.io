@@ -1,23 +1,24 @@
-# Install
-
-$ git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
-$ cd jeffAquinn.github.io.git
-
-$ Make your own Repo on github!...(username.github.io)"Host it to the web!"
+### Install
+```
+git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
+cd jeffAquinn.github.io.git
+```
+# Make your own Repo on github!...(username.github.io)"Host it to the web!"
 
 ```
-# cd (username.github.io)
-# cp -a jeffAquinn.github.io.git (your-username).github.io 
-# npm i
-# resume init
-# resume export index.html
+cd (username.github.io)
+cp -a jeffAquinn.github.io.git (your-username).github.io 
+npm i
+resume init
+resume export index.html
 ```
 
 # Adding to github
-# git add -A
-# git commit -m "json resume"
-# git push
-
+```
+git add -A
+git commit -m "json resume"
+git push
+```
 
 # Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
 
