@@ -1,9 +1,9 @@
-### Install
+# Install jsonresume with elegant-theme
 ```
 git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
 cd jeffAquinn.github.io.git
 ```
-# Make your own Repo on github!...(username.github.io)"Host it to the web!"
+### Make your own Repo on github!...(username.github.io)"Host it to the web!"
 
 ```
 cd (username.github.io)
