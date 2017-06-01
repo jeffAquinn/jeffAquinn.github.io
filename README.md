@@ -13,7 +13,7 @@ resume init
 resume export index.html
 ```
 
-# Adding to github
+### Adding to github
 ```
 git add -A
 git commit -m "json resume"
