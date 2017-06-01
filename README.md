@@ -1,5 +1,7 @@
 # Install jsonresume with elegant-theme
 
+### Json Resume https://jsonresume.org/
+### npm install -g resume-cli
 
 ```
 git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
