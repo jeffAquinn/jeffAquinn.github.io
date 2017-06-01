@@ -13,6 +13,7 @@ cp -a jeffAquinn.github.io.git (your-username).github.io
 npm i
 resume init
 resume export index.html
+resume serve (will open up http://localhost:4000/)
 ```
 
 ### Adding to github
