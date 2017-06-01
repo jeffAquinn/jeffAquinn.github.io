@@ -1,4 +1,6 @@
 # Install jsonresume with elegant-theme
+
+
 ```
 git clone https://github.com/jeffAquinn/jeffAquinn.github.io.git
 cd jeffAquinn.github.io.git
@@ -20,7 +22,11 @@ git commit -m "json resume"
 git push
 ```
 
+
+
 # Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
+
+
 
 Responsive theme for [JsonResume](https://jsonresume.org/) inspired by card layouts.
 
