@@ -1,6 +1,5 @@
 # Install jsonresume with elegant-theme
 
-### Json Resume https://jsonresume.org/
 ### npm install -g resume-cli
 
 ```
@@ -25,7 +24,7 @@ git commit -m "json resume"
 git push
 ```
 
-
+### Json Resume https://jsonresume.org/
 
 # Elegant Theme [![npm version](https://badge.fury.io/js/jsonresume-theme-elegant.svg)](http://badge.fury.io/js/jsonresume-theme-elegant)
 
