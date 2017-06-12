@@ -73,9 +73,12 @@
       "studyType": "Mobile and Web Development",
       "startDate": "2017-01-01",
       "courses": [
-        "The Complete JavaScript Course: Jonas Schmedtmann",
-        "Essentials in JavaScript ES6: By David Katz",
-        "The Complete React Native and Redux: Stephen Grider"
+        "HTML5 and CSS",
+        "Responsive Design with Bootstrap",
+        "jQuery",
+        "Basic JavaScript",
+        "Object Oriented and Functional Programming",
+        "JSON API's and Ajax"
       ]
     },
     {
@@ -85,8 +88,10 @@
       "startDate": "2016-12-16",
       "courses": [
         "The Complete JavaScript Course: Jonas Schmedtmann",
-        "Essentials in JavaScript ES6: By David Katz",
-        "The Complete React Native and Redux: Stephen Grider"
+        "Essentials in JavaScript ES6: David Katz",
+        "The Complete React Native and Redux: Stephen Grider",
+        "React Native Advanced Concepts: Stephen Grider",
+        "Advanced React and Redux: Stephen Grider"
       ]
     },
     {
