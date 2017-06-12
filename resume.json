@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jeff Quinn",
     "label": "Web and App Development",
-    "picture": "./resumePic/jeff-6-12-17.jpg",
+    "picture": "https://s3-us-west-2.amazonaws.com/jaq-iphone/iconPic.JPG",
     "email": "tradeweaver@gmail.com",
     "phone": "(303) 906-5488",
     "website": "",
