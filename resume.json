@@ -6,7 +6,7 @@
     "email": "tradeweaver@gmail.com",
     "phone": "(303) 906-5488",
     "website": "",
-    "summary": "I have been a professional tile installer for the last thirteen years. I specialize in installing custom tile showers and floors in various resort towns and other places in the Denver Metro area. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. After throwing out my back in 2015, I needed to find a new way to apply my creativity so I came up with the idea to create a social trading app called Trade Weaver.",
+    "summary": "I have been a professional tile installer for the last thirteen years. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. At this point in my life I would love to build and design website's along with applications. I am a creative and detailed oriented person who loves a good challenge.",
     "location": {
       "address": "",
       "postalCode": "CO 80227",
@@ -36,7 +36,6 @@
       "summary": "I worked for my fathers construction company Custom Flooring Concepts right out of high school. We worked in Summit County, Grand County, and all over the Denver Metro area installing custom tile showers and hardwood floors in large resorts, homes and condos.",
       "highlights": [
         "I worked with a crew of guys installing a Hotel lobby floor in a beautiful quartz at Grand Lodge, Breckenridge ",
-        "Installed tile and hardwood in multi-million dollar homes and resorts.",
         "While working for Custom Flooring Concepts I was the lead man of a crew of two guys, while living in Breckenridge, CO"
       ]
     },
@@ -46,9 +45,8 @@
       "startDate": "2012-01-01",
       "summary": "In 2012 I decided it was time for me to create my own construction company Tile N The Rockies.",
       "highlights": [
-        "I worked with a crew of guys installing a Hotel lobby floor in a beautiful quartz at Grand Lodge, Breckenridge",
-        "Installed tile in Master Bathrooms in multi-million dallar homes.",
-        "While working for Custom Flooring Concepts I was the lead man of a crew of two guys, while living in Breckenridge, CO"
+        "Building my own business!",
+        "I've been in business for 5 years and worked on so many great projects."
       ]
     }
   ],
@@ -139,13 +137,16 @@
         "JavaScript(ES6)",
         "React.js",
         "React Native",
-        "jQuery"
+        "jQuery",
+        "GitHub",
+        "Command line"
       ]
     },
     {
       "name": "Back-end Development",
       "level": "Beginner",
       "keywords": [
+        "JSON",
         "MongoDB",
         "Flux",
         "Redux",
