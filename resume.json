@@ -118,7 +118,7 @@
   ],
   "skills": [
     {
-      "name": "Beginner",
+      "name": "Programming Languages",
       "level": "Beginner",
       "keywords": [
         "HTML",
@@ -135,6 +135,17 @@
         "Flux",
         "Redux",
         "AWS"
+      ]
+    },
+    {
+      "name": "Work",
+      "level": "Master",
+      "keywords": [
+        "People Skills",
+        "Communication",
+        "Customer Service",
+        "Project Managment",
+        "Design"
       ]
     }
   ],
