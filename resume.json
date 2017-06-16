@@ -6,7 +6,7 @@
     "email": "tradeweaver@gmail.com",
     "phone": "(303) 906-5488",
     "website": "",
-    "summary": "I have been a professional tile installer for the last thirteen years. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. At this point in my life I would love to build and design website's along with applications. I am a creative and detailed oriented person who loves a good challenge.",
+    "summary": "I am a creative and detailed oriented person who loves a good challenge. I have been a professional tile installer for the last thirteen years and even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. Instead, I would love to build and design websites along with applications.",
     "location": {
       "address": "",
       "postalCode": "CO 80227",
@@ -30,23 +30,22 @@
   "work": [
     {
       "company": "Custom Flooring Concepts",
-      "position": "Employee",
+      "position": "Lead Installer",
       "startDate": "2004-05-01",
       "endDate": "2011-12-01",
-      "summary": "I worked for my fathers construction company Custom Flooring Concepts right out of high school. We worked in Summit County, Grand County, and all over the Denver Metro area installing custom tile showers and hardwood floors in large resorts, homes and condos.",
+      "summary": "At my father's construction company, Custom Flooring Concepts,  we installed custom tile showers and hardwood floors.",
       "highlights": [
-        "I worked with a crew of guys installing a Hotel lobby floor in a beautiful quartz at Grand Lodge, Breckenridge ",
-        "While working for Custom Flooring Concepts I was the lead man of a crew of two guys, while living in Breckenridge, CO"
+        "I was the lead man of a crew of two guys"
       ]
     },
     {
       "company": "Tile N The Rockies",
       "position": "Owner",
       "startDate": "2012-01-01",
-      "summary": "In 2012 I decided it was time for me to create my own construction company Tile N The Rockies.",
+      "summary": "At Tile N The Rockies I work with clients to create custom tile layouts in bathrooms and floors.",
       "highlights": [
-        "Building my own business!",
-        "I've been in business for 5 years and worked on so many great projects."
+        "Small business owner",
+        "I have been in business for 5 years"
       ]
     }
   ],
@@ -57,10 +56,9 @@
       "website": "http://theactioncenterco.org/",
       "startDate": "2015-12-21",
       "endDate": "2015-12-21",
-      "summary": "I've volunteered at the Jeffco Action Center a number of times. While there I helped sort through donated clothes and put them on racks and shelves. I've also helped them unload vehicles full of donations around the holidays.",
+      "summary": "I volunteered at the Jeffco Action Center a number of times. While there, I helped sort through donated clothes and put them on racks and shelves. I also helped them unload vehicles full of donations around the holidays.",
       "highlights": [
-        "Giving back to the community!",
-        "Helping people in times of need, everyone goes through hard times in life."
+
       ]
     }
   ],
@@ -118,18 +116,9 @@
       ]
     }
   ],
-  "publications": [
-    {
-      "name": "Tile N The Rockies",
-      "publisher": "Jeff Quinn",
-      "releaseDate": "2017-06-10",
-      "website": "http://tnr.io",
-      "summary": "Custom web/app for Tile N The Rockies"
-    }
-  ],
   "skills": [
     {
-      "name": "Front-end Development",
+      "name": "Beginner",
       "level": "Beginner",
       "keywords": [
         "HTML",
@@ -139,14 +128,9 @@
         "React Native",
         "jQuery",
         "GitHub",
-        "Command line"
-      ]
-    },
-    {
-      "name": "Back-end Development",
-      "level": "Beginner",
-      "keywords": [
+        "Command line",
         "JSON",
+        "Docker",
         "MongoDB",
         "Flux",
         "Redux",
@@ -167,10 +151,16 @@
         "Hiking & Backpacking",
         "Rock Climbing",
         "Snowboarding",
-        "Snowmobiling",
-        "Programming Languages",
+        "Snowmobiling"
+      ]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+        "Programming",
         "Reading",
-        "Learning New Things"
+        "Science",
+        "Business"
       ]
     }
   ],
