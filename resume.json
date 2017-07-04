@@ -119,7 +119,7 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "Beginner",
+      "level": "",
       "keywords": [
         "HTML",
         "CSS",
@@ -130,16 +130,13 @@
         "GitHub",
         "Command line",
         "JSON",
-        "Docker",
-        "MongoDB",
-        "Flux",
         "Redux",
-        "AWS"
+        "s3 AWS"
       ]
     },
     {
       "name": "Work",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "People Skills",
         "Communication",
@@ -157,21 +154,18 @@
   ],
   "interests": [
     {
-      "name": "Outdoor Adventure",
+      "name": "FullStack development",
       "keywords": [
-        "Hiking & Backpacking",
-        "Rock Climbing",
-        "Snowboarding",
-        "Snowmobiling"
-      ]
-    },
-    {
-      "name": "Education",
-      "keywords": [
-        "Programming",
-        "Reading",
-        "Science",
-        "Business"
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React.js",
+        "React Native",
+        "AWS",
+        "Redux",
+        "Flux",
+        "Docker",
+        "GitHub"
       ]
     }
   ],
